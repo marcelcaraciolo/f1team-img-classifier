@@ -34,7 +34,7 @@ Exemplo de adição de imagem:
 
 Nessa seção deve colocar o link para acessar o dataset no Roboflow
 
-Exemplo de link: [Nome do link](google.com)
+Exemplo de link: [F1 Car Teams](https://universe.roboflow.com/corriporai/f1-car-teams)
 
 ## HuggingFace
 
