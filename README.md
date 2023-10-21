@@ -193,7 +193,8 @@ Epoch 25: early stopping
 
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
-![WANDB](https://api.wandb.ai/links/marcelcaraciolo/bv9u8tuk)
+[WANDB](https://api.wandb.ai/links/marcelcaraciolo/bv9u8tuk)
+
 
 
 
