@@ -227,4 +227,4 @@ Exemplo de link: [F1 Car Teams](https://universe.roboflow.com/corriporai/f1-car-
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+[Repositorio](https://huggingface.co/marcelcaraciolo/keras-efficientnetb0-f1teams/blob/main/README.md)
