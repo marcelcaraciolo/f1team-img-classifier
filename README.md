@@ -195,13 +195,27 @@ Nessa seção você deve colocar qualquer evidência do treinamento, como por ex
 
 [WANDB](https://api.wandb.ai/links/marcelcaraciolo/bv9u8tuk)
 
+#### Gráfico Perda x Performance do Modelo
+
 ![Gráfico de perda x performance](https://github.com/marcelcaraciolo/f1team-img-classifier/blob/cc5d9499e603f7f2fa6a3804c161468e79e2725a/assets/training_validation_accuracy.png)
+
+#### Matriz de Confusão
+
 
 ![Matriz de Confusão](https://github.com/marcelcaraciolo/f1team-img-classifier/blob/cc5d9499e603f7f2fa6a3804c161468e79e2725a/assets/confusion_matrix.png)
 
+#### F1-Scores das classes predictas para o modelo selecionado
+
+
 ![F1-Scores](https://github.com/marcelcaraciolo/f1team-img-classifier/blob/cc5d9499e603f7f2fa6a3804c161468e79e2725a/assets/f1-scores.png)
 
+
+#### Exemplos de saída
+
+
 ![Predicted examples](https://github.com/marcelcaraciolo/f1team-img-classifier/blob/cc5d9499e603f7f2fa6a3804c161468e79e2725a/assets/predicted.png)
+
+#### Exemplos de saída incorretos
 
 ![Wrong predicted examples](https://github.com/marcelcaraciolo/f1team-img-classifier/blob/cc5d9499e603f7f2fa6a3804c161468e79e2725a/assets/top10-wrong-predictions.png)
 
