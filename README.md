@@ -195,11 +195,15 @@ Nessa seção você deve colocar qualquer evidência do treinamento, como por ex
 
 [WANDB](https://api.wandb.ai/links/marcelcaraciolo/bv9u8tuk)
 
+![Gráfico de perda x performance](https://github.com/marcelcaraciolo/f1team-img-classifier/blob/cc5d9499e603f7f2fa6a3804c161468e79e2725a/assets/training_validation_accuracy.png)
 
+![Matriz de Confusão](https://github.com/marcelcaraciolo/f1team-img-classifier/blob/cc5d9499e603f7f2fa6a3804c161468e79e2725a/assets/confusion_matrix.png)
 
+![F1-Scores](https://github.com/marcelcaraciolo/f1team-img-classifier/blob/cc5d9499e603f7f2fa6a3804c161468e79e2725a/assets/f1-scores.png)
 
-Exemplo de adição de imagem:
-![Descrição](https://picsum.photos/seed/picsum/500/300)
+![Predicted examples](https://github.com/marcelcaraciolo/f1team-img-classifier/blob/cc5d9499e603f7f2fa6a3804c161468e79e2725a/assets/predicted.png)
+
+![Wrong predicted examples](https://github.com/marcelcaraciolo/f1team-img-classifier/blob/cc5d9499e603f7f2fa6a3804c161468e79e2725a/assets/top10-wrong-predictions.png)
 
 ## Roboflow
 
