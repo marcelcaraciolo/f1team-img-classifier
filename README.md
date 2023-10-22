@@ -228,3 +228,5 @@ Exemplo de link: [F1 Car Teams](https://universe.roboflow.com/corriporai/f1-car-
 ## HuggingFace
 
 [Repositorio](https://huggingface.co/marcelcaraciolo/keras-efficientnetb0-f1teams/blob/main/README.md)
+[SPACES](https://huggingface.co/spaces/marcelcaraciolo/f1-car-teams-classifier)
+# Infelizmente o SPACES não está funcionando pois o modelo foi treinado usando GPU, e o ambiente SPACES gratuito é com CPU.
